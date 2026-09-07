@@ -1,0 +1,2907 @@
+{
+  "mapped": [
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "marketplace-offer-library",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "marketplace-offer-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "customer-reseller-registry",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "customer-reseller-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "product-entitlement-tracking",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "product-entitlement-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "usage-metering-ingestion",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "usage-metering-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "commitment-drawdown",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "commitment-drawdown",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "discount-tier-validation",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "discount-tier-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "marketplace-fee-calculation",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "marketplace-fee-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "reseller-margin-calculation",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "reseller-margin-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "seller-payout-reconciliation",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "seller-payout-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "refund-credit-control",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "refund-credit-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "currency-tax-validation",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "currency-tax-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "renewal-expiration-monitoring",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "renewal-expiration-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "marketplace-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "marketplace-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "offer-channel-analytics",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/app.config.mjs",
+      "canonical": "offer-channel-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "msa-and-order-form-library",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "msa-and-order-form-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "site-cage-and-rack-registry",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "site-cage-and-rack-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "power-meter-ingestion",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "power-meter-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "pue-and-power-charge-recalculation",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "pue-and-power-charge-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "cross-connect-inventory-reconciliation",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "cross-connect-inventory-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "remote-hands-charge-audit",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "remote-hands-charge-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "recurring-service-reconciliation",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "recurring-service-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "install-and-decommission-billing-control",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "install-and-decommission-billing-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "uptime-sla-monitoring",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "uptime-sla-monitoring",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "incident-and-maintenance-evidence",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "incident-and-maintenance-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "sla-credit-calculation",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "sla-credit-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "capacity-commitment-tracking",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "capacity-commitment-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "invoice-exception-workbench",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "invoice-exception-workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "provider-claim-and-response-tracking",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "provider-claim-and-response-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "recovery-and-unit-cost-analytics",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/app.config.mjs",
+      "canonical": "recovery-and-unit-cost-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "packaging-agreement-library",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "packaging-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "sku-specification-registry",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "sku-specification-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "commodity-index-ingestion",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "commodity-index-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "index-publication-validation",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "index-publication-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "formula-lag-calculation",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "formula-lag-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "conversion-cost-validation",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "conversion-cost-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "freight-component-audit",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "freight-component-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "volume-tier-calculation",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "volume-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "lightweighting-adjustment",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "lightweighting-adjustment",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "scrap-factor-control",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "scrap-factor-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "price-effective-date-check",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "price-effective-date-check",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "invoice-recalculation",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "invoice-recalculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "supplier-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "supplier-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "material-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/app.config.mjs",
+      "canonical": "material-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "supplier-contract-library",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "supplier-contract-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "sku-and-service-catalog",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "sku-and-service-catalog",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "purchase-order-ingestion",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "purchase-order-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "invoice-ingestion",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "invoice-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "contract-price-reconstruction",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "contract-price-reconstruction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "volume-discount-validation",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "volume-discount-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "index-escalation-verification",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "index-escalation-verification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "most-favored-pricing-control",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "most-favored-pricing-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "freight-term-validation",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "freight-term-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "surcharge-audit",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "surcharge-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "duplicate-and-split-order-detection",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "duplicate-and-split-order-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "rebate-accrual-calculation",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "rebate-accrual-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "supplier-exception-workbench",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "supplier-exception-workbench",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "debit-memo-generation",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "debit-memo-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "supplier-and-category-leakage-analytics",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/app.config.mjs",
+      "canonical": "supplier-and-category-leakage-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "purchase-order-ingestion",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "purchase-order-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "release-schedule-control",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "release-schedule-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "goods-receipt-matching",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "goods-receipt-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "service-entry-validation",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "service-entry-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "return-to-vendor-linkage",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "return-to-vendor-linkage",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "invoice-line-ingestion",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "invoice-line-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "unit-of-measure-conversion",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "unit-of-measure-conversion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "quantity-tolerance-control",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "quantity-tolerance-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "duplicate-receipt-detection",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "duplicate-receipt-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "short-shipment-analysis",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "short-shipment-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "three-way-match-calculation",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "three-way-match-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "payment-overage-detection",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "payment-overage-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "supplier-claim-workflow",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "supplier-claim-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "buyer-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/app.config.mjs",
+      "canonical": "buyer-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "vendor-registry",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "vendor-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "contract-intelligence",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "contract-intelligence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "invoice-reconciliation",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "invoice-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "identity-normalization",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "identity-normalization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "unused-seats",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "unused-seats",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "tier-optimization",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "tier-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "entitlement-reconciliation",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "entitlement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "shadow-saas",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "shadow-saas",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "renewal-calendar",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "renewal-calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "negotiation",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "negotiation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "aws-commitments",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "aws-commitments",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "azure-commitments",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "azure-commitments",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "gcp-commitments",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "gcp-commitments",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "commitment-forecast",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "commitment-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "cloud-waste",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "cloud-waste",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "showback",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "showback",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "savings-approval",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "savings-approval",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "savings-ledger",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/app.config.mjs",
+      "canonical": "savings-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-software-procurement-negotiator",
+      "sourceKey": "ai-software-procurement-negotiator",
+      "source": "/Volumes/external/projects/ai-software-procurement-negotiator",
+      "canonical": "software-procurement-negotiator",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "supplier-agreement-library",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "supplier-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "eligible-product-registry",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "eligible-product-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "purchase-transaction-ingestion",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "purchase-transaction-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "net-purchase-calculation",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "net-purchase-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "return-exclusion-control",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "return-exclusion-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "volume-tier-calculation",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "volume-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "growth-baseline-calculation",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "growth-baseline-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "product-mix-incentive",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "product-mix-incentive",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "customer-project-exclusion",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "customer-project-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "rebate-accrual-ledger",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "rebate-accrual-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "claim-preparation",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "claim-preparation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "supplier-statement-audit",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "supplier-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "dispute-workflow",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "credit-cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "credit-cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "program-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/app.config.mjs",
+      "canonical": "program-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-vendor-contract-risk-monitor",
+      "sourceKey": "ai-vendor-contract-risk-monitor",
+      "source": "/Volumes/external/projects/ai-vendor-contract-risk-monitor",
+      "canonical": "vendor-contract-risk-monitor",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "Tenant",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "tenant",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "Vendor",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "vendor",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "VendorDocument",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "vendor-document",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "Bid",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "bid",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "BidDocument",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "bid-document",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "BidEvaluation",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "bid-evaluation",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "VendorEvaluation",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "vendor-evaluation",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "ComplianceCheck",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "compliance-check",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "Notification",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "notification",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "AuditLog",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "audit",
+      "kind": "schema"
+    },
+    {
+      "project": "ai_procurement_management",
+      "sourceKey": "AiResult",
+      "source": "/Volumes/external/projects/ai_procurement_management",
+      "canonical": "result",
+      "kind": "schema"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "/risk-scorer",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant/frontend/src/pages/Dashboard.js",
+      "canonical": "risk-scorer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "/synergy-calculator",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant/frontend/src/pages/Dashboard.js",
+      "canonical": "synergy-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "/valuation-modeler",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant/frontend/src/pages/Dashboard.js",
+      "canonical": "valuation-modeler",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "/red-flag-detector",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant/frontend/src/pages/Dashboard.js",
+      "canonical": "red-flag-detector",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "/integration-planner",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant/frontend/src/pages/Dashboard.js",
+      "canonical": "integration-planner",
+      "kind": "definition"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "companies",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "companies",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "financials",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "financials",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "news",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "news",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "risks",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "risks",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "redflags",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "redflags",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "market",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "market",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "competitors",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "competitors",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "legal",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "legal",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "management",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "management",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "deals",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "deals",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "watchlist",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "watchlist",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "key-person-risk-map",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "key-person-risk-map",
+      "kind": "route"
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "sourceKey": "acquisition-modernization",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "canonical": "acquisition-modernization",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/deals",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "deals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/targets",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "targets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/advisors",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "advisors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/vdr-documents",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "vdr-documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/q-and-a",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "q-and-a",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/working-groups",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "working-groups",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/term-sheets",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "term-sheets",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/lois",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "lois",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/due-diligence-items",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "due-diligence-items",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/financial-models",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "financial-models",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/comps",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "comps",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/working-capital-adjustments",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "working-capital-adjustments",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/integration-plans",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "integration-plans",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/regulatory-filings",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-filings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/escrow-terms",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "escrow-terms",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/closing-checklist",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "closing-checklist",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/post-close-reports",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "post-close-reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/audit-log",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/synergy-model",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "synergy-model",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/comp-transaction-finder",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "comp-transaction-finder",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/qofe-memo",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "qofe-memo",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/redline-summarizer",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "redline-summarizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/integration-plan-draft",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "integration-plan-draft",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/working-capital-true-up",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "working-capital-true-up",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/executive-brief",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "executive-brief",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/vdr-question-router",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "vdr-question-router",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/regulatory-approval-check",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "regulatory-approval-check",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/term-sheet-compare",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "term-sheet-compare",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/closing-checklist-gen",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "closing-checklist-gen",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/due-diligence-prioritize",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "due-diligence-prioritize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/financial-model-sanity",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "financial-model-sanity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/anti-trust-risk",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "anti-trust-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/escrow-calculator",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "escrow-calculator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "/ai/post-close-narrative",
+      "source": "/Volumes/external/projects/AIMandADealRoom/frontend/src/pages/Dashboard.js",
+      "canonical": "post-close-narrative",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "buyer-pipeline",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "buyer-pipeline",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "data-requests",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "data-requests",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "document-comparisons",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "document-comparisons",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "permission-groups",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "permission-groups",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "document-comments",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "document-comments",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "bid-rounds",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "bid-rounds",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "marketing-materials",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "marketing-materials",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "approval-workflows",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "approval-workflows",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "deal-milestones",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "deal-milestones",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "closing-binders",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "closing-binders",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "buyer-engagement-score",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "buyer-engagement-score",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/document-classifier",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "document-classifier",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/qa-copilot",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "qa-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/redaction-recommender",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "redaction-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/deal-summary-generator",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "deal-summary-generator",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/risk-flag-extractor",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "risk-flag-extractor",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/nda-matcher",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "nda-matcher",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/dcf-copilot",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "dcf-copilot",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "ai/term-sheet-diff-explainer",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "term-sheet-diff-explainer",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "vdr-permissions",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "vdr-permissions",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "vdr-viewer",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "vdr-viewer",
+      "kind": "route"
+    },
+    {
+      "project": "AIMandADealRoom",
+      "sourceKey": "vdr-analytics",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "canonical": "vdr-analytics",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/clients",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/projects",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "matters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/proposals",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "proposals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/sows",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "sows",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/services",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "services",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/templates",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/proposal-templates",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "proposal-templates",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/team",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "team",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/ai-generator",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "generator",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/ai-pricing",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/ai-win-loss",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "win-loss",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/ai-competitors",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "competitors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/ai-timeline",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/ai-risk",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/documents",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "documents",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "cf-multisection-sow-generation",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "multisection-sow-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "cf-proposal-template-library",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "proposal-template-library",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "cf-pricing-intelligence",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "pricing-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "cf-risk-allocation",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "risk-allocation",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "cf-contract-clause-recommender",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "contract-clause-recommender",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "cf-postsignature-tracking",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "postsignature-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-ai-sow-generation-endpoint",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "ai-sow-generation-endpoint",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-ai-proposalfrombrief-generation",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "ai-proposalfrombrief-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-ai-clauseterm-recommendation",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "ai-clauseterm-recommendation",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-ai-pricing-intelligence",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "ai-pricing-intelligence",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-ai-risk-allocation-generation",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "ai-risk-allocation-generation",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-client-project-or-proposal-crud",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "client-project-or-proposal-crud",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-template-library-or-section-snippets",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "template-library-or-section-snippets",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-pricingratecard-management",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "pricingratecard-management",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-pdf-export-route-codebase-imports-pdf-lib",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "pdf-export-route-codebase-imports-pdf-lib",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-esignature-workflow",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "esignature-workflow",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-changeorder-tracking",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "changeorder-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "sourceKey": "gap-no-notifications-audit-log-or-rbac",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "canonical": "notifications-audit-log-or-rbac",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/rfp",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "rfp",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/bids",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "bids",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/cost-models",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "cost-models",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/negotiation",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "negotiation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/contracts",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "contracts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/spend-analytics",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "spend-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/savings",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "savings",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/risk-assessment",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/auctions",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "auctions",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/market-intel",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "market-intel",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/scorecards",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "scorecards",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/approvals",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "approvals",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/category-strategy",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "category-strategy",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/supplier-diversity",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "supplier-diversity",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/delivery-risk",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "delivery-risk",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/export",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "export",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/activity-log",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "/notifications",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "canonical": "messages",
+      "kind": "definition"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "cf-supplier-diversity-optimization-identifying-minority-women-small-suppliers",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "supplier-diversity-optimization-identifying-minority-women-small-suppliers",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "cf-supply-chain-resilience-mapping-identifying-single-sourced-categories",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "supply-chain-resilience-mapping-identifying-single-sourced-categories",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "cf-invoice-anomaly-detection-for-manual-review",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "invoice-anomaly-detection-for-manual-review",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "cf-marketplace-integration-for-direct-sourcing-with-auto-price-monitoring",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "marketplace-integration-for-direct-sourcing-with-auto-price-monitoring",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "cf-contract-obligation-tracker-with-alerts-for-renewals-sla",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "contract-obligation-tracker-with-alerts-for-renewals-sla",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-ai-driven-supplier-diversity-optimization",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "ai-driven-supplier-diversity-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-predictive-delivery-quality-risk-model",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "predictive-delivery-quality-risk-model",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-invoice-anomaly-detection-ai",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "invoice-anomaly-detection-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-limited-integrations-only-an-export-module-no-erp",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "limited-integrations-only-an-export-module-no-erp",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-supplier-portal-for-collaborative-bidding",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "supplier-portal-for-collaborative-bidding",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-invoice-matching-three-way-match-automation",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "invoice-matching-three-way-match-automation",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-contract-obligation-tracking-with-calendar-alerts",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "contract-obligation-tracking-with-calendar-alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-webhooks-for-external-system-events",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "webhooks-for-external-system-events",
+      "kind": "route"
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "sourceKey": "gap-no-e-signature-workflow-for-contracts",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "canonical": "e-signature-workflow-for-contracts",
+      "kind": "route"
+    },
+    {
+      "project": "AIVendorRiskPerformanceScorer",
+      "sourceKey": "AIVendorRiskPerformanceScorer",
+      "source": "/Volumes/external/projects/AIVendorRiskPerformanceScorer",
+      "canonical": "aivendor-risk-performance-scorer",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "budget",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "budget",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "tax",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "tax",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "contract",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "contract",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "skills",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAdvanced.jsx",
+      "canonical": "skills",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "finance",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "finance",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "hr",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "hr",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "sales",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "sales",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "inventory",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "risk",
+      "source": "/Volumes/external/projects/oracle/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "risk",
+      "kind": "definition"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-budget-simulator",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "budget",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-tax-optimizer",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "tax",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-contract-clause-analyzer",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "contract-clause-analyzer",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-fraud-anomaly-detector",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "fraud-anomaly-detector",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-skills-matcher",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "skills",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-invoice-ocr",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "invoice-ocr",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-multi-entity-consolidation",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "multi-entity-consolidation",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-approval-engine",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "approval-engine",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-external-accounting-sync",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "external-accounting-sync",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-mobile-self-service",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "mobile-self-service",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-field-ops-app",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "field-ops-app",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-api-gateway",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "api-gateway",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "gap-features/_audit",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "audit",
+      "kind": "route"
+    },
+    {
+      "project": "oracle",
+      "sourceKey": "procurement",
+      "source": "/Volumes/external/projects/oracle",
+      "canonical": "procurement",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-cloud-marketplace-private-offer-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-cloud-marketplace-private-offer-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-data-center-colocation-invoice-sla-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-data-center-colocation-invoice-sla-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-packaging-material-index-price-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-packaging-material-index-price-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-procurement-contract-price-compliance-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-procurement-contract-price-compliance-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-purchase-order-receipt-invoice-quantity-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-purchase-order-receipt-invoice-quantity-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-saas-license-cloud-commitment-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-saas-license-cloud-commitment-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-supplier-rebate-accrual-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-supplier-rebate-accrual-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "batch03",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "register",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "ai-tools",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIDueDiligenceAssistant",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIDueDiligenceAssistant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMandADealRoom",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMandADealRoom",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMandADealRoom",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMandADealRoom",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMandADealRoom",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMandADealRoom",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIMandADealRoom",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMandADealRoom",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/pricing",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator/frontend/src/App.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "pricing",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "profile",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIProposalSOWGenerator",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/portal/proposals/:token",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/clients/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/projects/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/proposals/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/sows/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/services/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/pricing/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/templates/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/team/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIProposalSOWGenerator",
+      "key": "/documents/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "key": "/search",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "key": "/profile",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation/frontend/src/pages/Dashboard.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIStrategicSourcingNegotiation",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "key": "/cf-predictive-delivery-ri[redacted]",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIStrategicSourcingNegotiation",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "oracle",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "oracle",
+      "key": "login",
+      "source": "/Volumes/external/projects/oracle",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "marketplace-offer-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-reseller-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-entitlement-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "usage-metering-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commitment-drawdown",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "discount-tier-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "marketplace-fee-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "reseller-margin-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "seller-payout-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "refund-credit-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "currency-tax-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "renewal-expiration-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "marketplace-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "offer-channel-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "msa-and-order-form-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "site-cage-and-rack-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "power-meter-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "pue-and-power-charge-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cross-connect-inventory-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "remote-hands-charge-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recurring-service-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "install-and-decommission-billing-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "uptime-sla-monitoring",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "incident-and-maintenance-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sla-credit-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "capacity-commitment-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-exception-workbench",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "provider-claim-and-response-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "recovery-and-unit-cost-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "packaging-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sku-specification-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commodity-index-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "index-publication-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "formula-lag-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "conversion-cost-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "freight-component-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "lightweighting-adjustment",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "scrap-factor-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "price-effective-date-check",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-recalculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "material-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-contract-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "sku-and-service-catalog",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "purchase-order-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-price-reconstruction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-discount-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "index-escalation-verification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "most-favored-pricing-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "freight-term-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "surcharge-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-and-split-order-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-accrual-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-exception-workbench",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "debit-memo-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-and-category-leakage-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "purchase-order-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "release-schedule-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "goods-receipt-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "service-entry-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-to-vendor-linkage",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-line-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unit-of-measure-conversion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "quantity-tolerance-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-receipt-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "short-shipment-analysis",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "three-way-match-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-overage-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-claim-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "buyer-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "vendor-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "contract-intelligence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "invoice-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "identity-normalization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "unused-seats",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "tier-optimization",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "entitlement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "shadow-saas",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "renewal-calendar",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "negotiation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "aws-commitments",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "azure-commitments",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gcp-commitments",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commitment-forecast",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cloud-waste",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "showback",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "savings-approval",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "savings-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "ai-software-procurement-negotiator",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "feature": "supplier-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "eligible-product-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "purchase-transaction-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "net-purchase-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-exclusion-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "growth-baseline-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-mix-incentive",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "customer-project-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-accrual-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-preparation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "program-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "ai-vendor-contract-risk-monitor",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    },
+    {
+      "project": "AIVendorRiskPerformanceScorer",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}

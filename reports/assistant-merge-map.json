@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "redline-summarizer",
+      "integration-plan-draft",
+      "document-classifier",
+      "ai-proposalfrombrief-generation",
+      "contracts"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 8 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "redline-summarizer",
+        "title": "AI · Redline Summarizer",
+        "originalPath": "/features/redline-summarizer"
+      },
+      {
+        "id": "integration-plan-draft",
+        "title": "AI · Integration Plan Draft",
+        "originalPath": "/features/integration-plan-draft"
+      },
+      {
+        "id": "document-classifier",
+        "title": "Document classifier",
+        "originalPath": "/features/document-classifier"
+      },
+      {
+        "id": "ai-proposalfrombrief-generation",
+        "title": "ai proposalfrombrief generation",
+        "originalPath": "/features/ai-proposalfrombrief-generation"
+      },
+      {
+        "id": "contracts",
+        "title": "Contract Drafting",
+        "originalPath": "/features/contracts"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "marketplace-offer-library",
+      "customer-reseller-registry",
+      "product-entitlement-tracking",
+      "usage-metering-ingestion",
+      "commitment-drawdown",
+      "reseller-margin-calculation",
+      "renewal-expiration-monitoring",
+      "marketplace-dispute-workflow",
+      "offer-channel-analytics",
+      "msa-and-order-form-library",
+      "site-cage-and-rack-registry",
+      "power-meter-ingestion",
+      "pue-and-power-charge-recalculation",
+      "uptime-sla-monitoring",
+      "provider-claim-and-response-tracking",
+      "packaging-agreement-library",
+      "sku-specification-registry",
+      "commodity-index-ingestion",
+      "formula-lag-calculation",
+      "volume-tier-calculation",
+      "lightweighting-adjustment",
+      "supplier-dispute-workflow",
+      "material-supplier-analytics",
+      "supplier-contract-library",
+      "sku-and-service-catalog",
+      "purchase-order-ingestion",
+      "rebate-accrual-calculation",
+      "debit-memo-generation",
+      "supplier-and-category-leakage-analytics",
+      "return-to-vendor-linkage",
+      "three-way-match-calculation",
+      "supplier-claim-workflow",
+      "buyer-supplier-analytics",
+      "vendor-registry",
+      "contract-intelligence",
+      "identity-normalization",
+      "shadow-saas",
+      "negotiation",
+      "aws-commitments",
+      "azure-commitments",
+      "gcp-commitments",
+      "cloud-waste",
+      "savings-approval",
+      "savings-ledger",
+      "software-procurement-negotiator",
+      "supplier-agreement-library",
+      "eligible-product-registry",
+      "purchase-transaction-ingestion",
+      "net-purchase-calculation",
+      "growth-baseline-calculation",
+      "product-mix-incentive",
+      "customer-project-exclusion",
+      "rebate-accrual-ledger",
+      "claim-preparation",
+      "dispute-workflow",
+      "program-supplier-analytics",
+      "synergy-calculator",
+      "valuation-modeler",
+      "integration-planner",
+      "competitors",
+      "synergy-model",
+      "comp-transaction-finder",
+      "qofe-memo",
+      "working-capital-true-up",
+      "executive-brief",
+      "vdr-question-router",
+      "term-sheet-compare",
+      "closing-checklist-gen",
+      "due-diligence-prioritize",
+      "escrow-calculator",
+      "post-close-narrative",
+      "qa-copilot",
+      "deal-summary-generator",
+      "nda-matcher",
+      "dcf-copilot",
+      "term-sheet-diff-explainer",
+      "vdr-analytics",
+      "generator",
+      "timeline",
+      "ai-sow-generation-endpoint",
+      "spend-analytics",
+      "supply-chain-resilience-mapping-identifying-single-sourced-categories",
+      "skills"
+    ],
+    "ai": true,
+    "representativeId": "marketplace-offer-library",
+    "description": "One assistant for 83 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "marketplace-offer-library",
+        "title": "Marketplace offer library",
+        "originalPath": "/features/marketplace-offer-library"
+      },
+      {
+        "id": "customer-reseller-registry",
+        "title": "Customer reseller registry",
+        "originalPath": "/features/customer-reseller-registry"
+      },
+      {
+        "id": "product-entitlement-tracking",
+        "title": "Product entitlement tracking",
+        "originalPath": "/features/product-entitlement-tracking"
+      },
+      {
+        "id": "usage-metering-ingestion",
+        "title": "Usage metering ingestion",
+        "originalPath": "/features/usage-metering-ingestion"
+      },
+      {
+        "id": "commitment-drawdown",
+        "title": "Commitment drawdown",
+        "originalPath": "/features/commitment-drawdown"
+      },
+      {
+        "id": "reseller-margin-calculation",
+        "title": "Reseller margin calculation",
+        "originalPath": "/features/reseller-margin-calculation"
+      },
+      {
+        "id": "renewal-expiration-monitoring",
+        "title": "Renewal expiration monitoring",
+        "originalPath": "/features/renewal-expiration-monitoring"
+      },
+      {
+        "id": "marketplace-dispute-workflow",
+        "title": "Marketplace dispute workflow",
+        "originalPath": "/features/marketplace-dispute-workflow"
+      },
+      {
+        "id": "offer-channel-analytics",
+        "title": "Offer channel analytics",
+        "originalPath": "/features/offer-channel-analytics"
+      },
+      {
+        "id": "msa-and-order-form-library",
+        "title": "MSA and order-form library",
+        "originalPath": "/features/msa-and-order-form-library"
+      },
+      {
+        "id": "site-cage-and-rack-registry",
+        "title": "Site cage and rack registry",
+        "originalPath": "/features/site-cage-and-rack-registry"
+      },
+      {
+        "id": "power-meter-ingestion",
+        "title": "Power meter ingestion",
+        "originalPath": "/features/power-meter-ingestion"
+      },
+      {
+        "id": "pue-and-power-charge-recalculation",
+        "title": "PUE and power-charge recalculation",
+        "originalPath": "/features/pue-and-power-charge-recalculation"
+      },
+      {
+        "id": "uptime-sla-monitoring",
+        "title": "Uptime SLA monitoring",
+        "originalPath": "/features/uptime-sla-monitoring"
+      },
+      {
+        "id": "provider-claim-and-response-tracking",
+        "title": "Provider claim and response tracking",
+        "originalPath": "/features/provider-claim-and-response-tracking"
+      },
+      {
+        "id": "packaging-agreement-library",
+        "title": "Packaging agreement library",
+        "originalPath": "/features/packaging-agreement-library"
+      },
+      {
+        "id": "sku-specification-registry",
+        "title": "SKU specification registry",
+        "originalPath": "/features/sku-specification-registry"
+      },
+      {
+        "id": "commodity-index-ingestion",
+        "title": "Commodity index ingestion",
+        "originalPath": "/features/commodity-index-ingestion"
+      },
+      {
+        "id": "formula-lag-calculation",
+        "title": "Formula lag calculation",
+        "originalPath": "/features/formula-lag-calculation"
+      },
+      {
+        "id": "volume-tier-calculation",
+        "title": "Volume tier calculation",
+        "originalPath": "/features/volume-tier-calculation"
+      },
+      {
+        "id": "lightweighting-adjustment",
+        "title": "Lightweighting adjustment",
+        "originalPath": "/features/lightweighting-adjustment"
+      },
+      {
+        "id": "supplier-dispute-workflow",
+        "title": "Supplier dispute workflow",
+        "originalPath": "/features/supplier-dispute-workflow"
+      },
+      {
+        "id": "material-supplier-analytics",
+        "title": "Material supplier analytics",
+        "originalPath": "/features/material-supplier-analytics"
+      },
+      {
+        "id": "supplier-contract-library",
+        "title": "Supplier contract library",
+        "originalPath": "/features/supplier-contract-library"
+      },
+      {
+        "id": "sku-and-service-catalog",
+        "title": "SKU and service catalog",
+        "originalPath": "/features/sku-and-service-catalog"
+      },
+      {
+        "id": "purchase-order-ingestion",
+        "title": "Purchase-order ingestion",
+        "originalPath": "/features/purchase-order-ingestion"
+      },
+      {
+        "id": "rebate-accrual-calculation",
+        "title": "Rebate accrual calculation",
+        "originalPath": "/features/rebate-accrual-calculation"
+      },
+      {
+        "id": "debit-memo-generation",
+        "title": "Debit memo generation",
+        "originalPath": "/features/debit-memo-generation"
+      },
+      {
+        "id": "supplier-and-category-leakage-analytics",
+        "title": "Supplier and category leakage analytics",
+        "originalPath": "/features/supplier-and-category-leakage-analytics"
+      },
+      {
+        "id": "return-to-vendor-linkage",
+        "title": "Return-to-vendor linkage",
+        "originalPath": "/features/return-to-vendor-linkage"
+      },
+      {
+        "id": "three-way-match-calculation",
+        "title": "Three-way match calculation",
+        "originalPath": "/features/three-way-match-calculation"
+      },
+      {
+        "id": "supplier-claim-workflow",
+        "title": "Supplier claim workflow",
+        "originalPath": "/features/supplier-claim-workflow"
+      },
+      {
+        "id": "buyer-supplier-analytics",
+        "title": "Buyer supplier analytics",
+        "originalPath": "/features/buyer-supplier-analytics"
+      },
+      {
+        "id": "vendor-registry",
+        "title": "Technology Vendor Registry",
+        "originalPath": "/features/vendor-registry"
+      },
+      {
+        "id": "contract-intelligence",
+        "title": "Contract & Order-Form Intelligence",
+        "originalPath": "/features/contract-intelligence"
+      },
+      {
+        "id": "identity-normalization",
+        "title": "Identity & Account Normalization",
+        "originalPath": "/features/identity-normalization"
+      },
+      {
+        "id": "shadow-saas",
+        "title": "Shadow SaaS Discovery",
+        "originalPath": "/features/shadow-saas"
+      },
+      {
+        "id": "negotiation",
+        "title": "Renewal Negotiation Workbench",
+        "originalPath": "/features/negotiation"
+      },
+      {
+        "id": "aws-commitments",
+        "title": "AWS Commitment Management",
+        "originalPath": "/features/aws-commitments"
+      },
+      {
+        "id": "azure-commitments",
+        "title": "Azure Reservation & Savings-Plan Management",
+        "originalPath": "/features/azure-commitments"
+      },
+      {
+        "id": "gcp-commitments",
+        "title": "Google Cloud CUD Management",
+        "originalPath": "/features/gcp-commitments"
+      },
+      {
+        "id": "cloud-waste",
+        "title": "Cloud Waste & Rightsizing",
+        "originalPath": "/features/cloud-waste"
+      },
+      {
+        "id": "savings-approval",
+        "title": "Savings Approval Workflow",
+        "originalPath": "/features/savings-approval"
+      },
+      {
+        "id": "savings-ledger",
+        "title": "Realized-Savings Ledger",
+        "originalPath": "/features/savings-ledger"
+      },
+      {
+        "id": "software-procurement-negotiator",
+        "title": "Software procurement negotiator work",
+        "originalPath": "/features/software-procurement-negotiator"
+      },
+      {
+        "id": "supplier-agreement-library",
+        "title": "Supplier agreement library",
+        "originalPath": "/features/supplier-agreement-library"
+      },
+      {
+        "id": "eligible-product-registry",
+        "title": "Eligible product registry",
+        "originalPath": "/features/eligible-product-registry"
+      },
+      {
+        "id": "purchase-transaction-ingestion",
+        "title": "Purchase transaction ingestion",
+        "originalPath": "/features/purchase-transaction-ingestion"
+      },
+      {
+        "id": "net-purchase-calculation",
+        "title": "Net purchase calculation",
+        "originalPath": "/features/net-purchase-calculation"
+      },
+      {
+        "id": "growth-baseline-calculation",
+        "title": "Growth baseline calculation",
+        "originalPath": "/features/growth-baseline-calculation"
+      },
+      {
+        "id": "product-mix-incentive",
+        "title": "Product mix incentive",
+        "originalPath": "/features/product-mix-incentive"
+      },
+      {
+        "id": "customer-project-exclusion",
+        "title": "Customer project exclusion",
+        "originalPath": "/features/customer-project-exclusion"
+      },
+      {
+        "id": "rebate-accrual-ledger",
+        "title": "Rebate accrual ledger",
+        "originalPath": "/features/rebate-accrual-ledger"
+      },
+      {
+        "id": "claim-preparation",
+        "title": "Claim preparation",
+        "originalPath": "/features/claim-preparation"
+      },
+      {
+        "id": "dispute-workflow",
+        "title": "Dispute workflow",
+        "originalPath": "/features/dispute-workflow"
+      },
+      {
+        "id": "program-supplier-analytics",
+        "title": "Program supplier analytics",
+        "originalPath": "/features/program-supplier-analytics"
+      },
+      {
+        "id": "synergy-calculator",
+        "title": "AI Synergy Calculator",
+        "originalPath": "/features/synergy-calculator"
+      },
+      {
+        "id": "valuation-modeler",
+        "title": "AI Valuation Modeler",
+        "originalPath": "/features/valuation-modeler"
+      },
+      {
+        "id": "integration-planner",
+        "title": "AI Integration Planner",
+        "originalPath": "/features/integration-planner"
+      },
+      {
+        "id": "competitors",
+        "title": "Competitors",
+        "originalPath": "/features/competitors"
+      },
+      {
+        "id": "synergy-model",
+        "title": "AI · Synergy Model",
+        "originalPath": "/features/synergy-model"
+      },
+      {
+        "id": "comp-transaction-finder",
+        "title": "AI · Comp Transaction Finder",
+        "originalPath": "/features/comp-transaction-finder"
+      },
+      {
+        "id": "qofe-memo",
+        "title": "AI · QofE Memo",
+        "originalPath": "/features/qofe-memo"
+      },
+      {
+        "id": "working-capital-true-up",
+        "title": "AI · Working Capital True-Up",
+        "originalPath": "/features/working-capital-true-up"
+      },
+      {
+        "id": "executive-brief",
+        "title": "AI · Executive Brief",
+        "originalPath": "/features/executive-brief"
+      },
+      {
+        "id": "vdr-question-router",
+        "title": "AI · VDR Question Router",
+        "originalPath": "/features/vdr-question-router"
+      },
+      {
+        "id": "term-sheet-compare",
+        "title": "AI · Term Sheet Compare",
+        "originalPath": "/features/term-sheet-compare"
+      },
+      {
+        "id": "closing-checklist-gen",
+        "title": "AI · Closing Checklist Gen",
+        "originalPath": "/features/closing-checklist-gen"
+      },
+      {
+        "id": "due-diligence-prioritize",
+        "title": "AI · DD Prioritize",
+        "originalPath": "/features/due-diligence-prioritize"
+      },
+      {
+        "id": "escrow-calculator",
+        "title": "AI · Escrow Calculator",
+        "originalPath": "/features/escrow-calculator"
+      },
+      {
+        "id": "post-close-narrative",
+        "title": "AI · Post-Close Narrative",
+        "originalPath": "/features/post-close-narrative"
+      },
+      {
+        "id": "qa-copilot",
+        "title": "Qa copilot",
+        "originalPath": "/features/qa-copilot"
+      },
+      {
+        "id": "deal-summary-generator",
+        "title": "Deal summary generator",
+        "originalPath": "/features/deal-summary-generator"
+      },
+      {
+        "id": "nda-matcher",
+        "title": "Nda matcher",
+        "originalPath": "/features/nda-matcher"
+      },
+      {
+        "id": "dcf-copilot",
+        "title": "Dcf copilot",
+        "originalPath": "/features/dcf-copilot"
+      },
+      {
+        "id": "term-sheet-diff-explainer",
+        "title": "Term sheet diff explainer",
+        "originalPath": "/features/term-sheet-diff-explainer"
+      },
+      {
+        "id": "vdr-analytics",
+        "title": "Vdr analytics",
+        "originalPath": "/features/vdr-analytics"
+      },
+      {
+        "id": "generator",
+        "title": "AI Generator",
+        "originalPath": "/features/generator"
+      },
+      {
+        "id": "timeline",
+        "title": "Timeline Generator",
+        "originalPath": "/features/timeline"
+      },
+      {
+        "id": "ai-sow-generation-endpoint",
+        "title": "ai sow generation endpoint",
+        "originalPath": "/features/ai-sow-generation-endpoint"
+      },
+      {
+        "id": "spend-analytics",
+        "title": "Spend Analytics",
+        "originalPath": "/features/spend-analytics"
+      },
+      {
+        "id": "supply-chain-resilience-mapping-identifying-single-sourced-categories",
+        "title": "supply chain resilience mapping identifying single sourced categories",
+        "originalPath": "/features/supply-chain-resilience-mapping-identifying-single-sourced-categories"
+      },
+      {
+        "id": "skills",
+        "title": "Skills Matcher",
+        "originalPath": "/features/skills"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "discount-tier-validation",
+      "remote-hands-charge-audit",
+      "incident-and-maintenance-evidence",
+      "index-publication-validation",
+      "freight-component-audit",
+      "scrap-factor-control",
+      "volume-discount-validation",
+      "index-escalation-verification",
+      "freight-term-validation",
+      "surcharge-audit",
+      "supplier-exception-workbench",
+      "service-entry-validation",
+      "quantity-tolerance-control",
+      "renewal-calendar",
+      "return-exclusion-control",
+      "supplier-statement-audit",
+      "vendor-contract-risk-monitor",
+      "risk-scorer",
+      "regulatory-approval-check",
+      "anti-trust-risk",
+      "risk-flag-extractor",
+      "risk",
+      "ai-risk-allocation-generation",
+      "predictive-delivery-quality-risk-model",
+      "aivendor-risk-performance-scorer"
+    ],
+    "ai": true,
+    "representativeId": "discount-tier-validation",
+    "description": "One assistant for 25 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "discount-tier-validation",
+        "title": "Discount tier validation",
+        "originalPath": "/features/discount-tier-validation"
+      },
+      {
+        "id": "remote-hands-charge-audit",
+        "title": "Remote-hands charge audit",
+        "originalPath": "/features/remote-hands-charge-audit"
+      },
+      {
+        "id": "incident-and-maintenance-evidence",
+        "title": "Incident and maintenance evidence",
+        "originalPath": "/features/incident-and-maintenance-evidence"
+      },
+      {
+        "id": "index-publication-validation",
+        "title": "Index publication validation",
+        "originalPath": "/features/index-publication-validation"
+      },
+      {
+        "id": "freight-component-audit",
+        "title": "Freight component audit",
+        "originalPath": "/features/freight-component-audit"
+      },
+      {
+        "id": "scrap-factor-control",
+        "title": "Scrap factor control",
+        "originalPath": "/features/scrap-factor-control"
+      },
+      {
+        "id": "volume-discount-validation",
+        "title": "Volume discount validation",
+        "originalPath": "/features/volume-discount-validation"
+      },
+      {
+        "id": "index-escalation-verification",
+        "title": "Index escalation verification",
+        "originalPath": "/features/index-escalation-verification"
+      },
+      {
+        "id": "freight-term-validation",
+        "title": "Freight-term validation",
+        "originalPath": "/features/freight-term-validation"
+      },
+      {
+        "id": "surcharge-audit",
+        "title": "Surcharge audit",
+        "originalPath": "/features/surcharge-audit"
+      },
+      {
+        "id": "supplier-exception-workbench",
+        "title": "Supplier exception workbench",
+        "originalPath": "/features/supplier-exception-workbench"
+      },
+      {
+        "id": "service-entry-validation",
+        "title": "Service entry validation",
+        "originalPath": "/features/service-entry-validation"
+      },
+      {
+        "id": "quantity-tolerance-control",
+        "title": "Quantity tolerance control",
+        "originalPath": "/features/quantity-tolerance-control"
+      },
+      {
+        "id": "renewal-calendar",
+        "title": "Renewal Calendar & Notice Control",
+        "originalPath": "/features/renewal-calendar"
+      },
+      {
+        "id": "return-exclusion-control",
+        "title": "Return exclusion control",
+        "originalPath": "/features/return-exclusion-control"
+      },
+      {
+        "id": "supplier-statement-audit",
+        "title": "Supplier statement audit",
+        "originalPath": "/features/supplier-statement-audit"
+      },
+      {
+        "id": "vendor-contract-risk-monitor",
+        "title": "Vendor contract risk monitor work",
+        "originalPath": "/features/vendor-contract-risk-monitor"
+      },
+      {
+        "id": "risk-scorer",
+        "title": "AI Risk Scorer",
+        "originalPath": "/features/risk-scorer"
+      },
+      {
+        "id": "regulatory-approval-check",
+        "title": "AI · Regulatory Approval Check",
+        "originalPath": "/features/regulatory-approval-check"
+      },
+      {
+        "id": "anti-trust-risk",
+        "title": "AI · Anti-Trust Risk",
+        "originalPath": "/features/anti-trust-risk"
+      },
+      {
+        "id": "risk-flag-extractor",
+        "title": "Risk flag extractor",
+        "originalPath": "/features/risk-flag-extractor"
+      },
+      {
+        "id": "risk",
+        "title": "Risk Assessment",
+        "originalPath": "/features/risk"
+      },
+      {
+        "id": "ai-risk-allocation-generation",
+        "title": "ai risk allocation generation",
+        "originalPath": "/features/ai-risk-allocation-generation"
+      },
+      {
+        "id": "predictive-delivery-quality-risk-model",
+        "title": "predictive delivery quality risk model",
+        "originalPath": "/features/predictive-delivery-quality-risk-model"
+      },
+      {
+        "id": "aivendor-risk-performance-scorer",
+        "title": "Vendor risk performance scorer work",
+        "originalPath": "/features/aivendor-risk-performance-scorer"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "marketplace-fee-calculation",
+      "seller-payout-reconciliation",
+      "refund-credit-control",
+      "currency-tax-validation",
+      "cash-reconciliation",
+      "cross-connect-inventory-reconciliation",
+      "recurring-service-reconciliation",
+      "install-and-decommission-billing-control",
+      "sla-credit-calculation",
+      "invoice-exception-workbench",
+      "recovery-and-unit-cost-analytics",
+      "conversion-cost-validation",
+      "price-effective-date-check",
+      "invoice-recalculation",
+      "credit-reconciliation",
+      "invoice-ingestion",
+      "contract-price-reconstruction",
+      "most-favored-pricing-control",
+      "invoice-line-ingestion",
+      "payment-overage-detection",
+      "invoice-reconciliation",
+      "entitlement-reconciliation",
+      "showback",
+      "credit-cash-reconciliation",
+      "financial-model-sanity",
+      "pricing",
+      "ai-pricing-intelligence",
+      "invoice-anomaly-detection-for-manual-review",
+      "invoice-anomaly-detection-ai",
+      "budget",
+      "tax",
+      "finance"
+    ],
+    "ai": true,
+    "representativeId": "marketplace-fee-calculation",
+    "description": "One assistant for 32 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "marketplace-fee-calculation",
+        "title": "Marketplace fee calculation",
+        "originalPath": "/features/marketplace-fee-calculation"
+      },
+      {
+        "id": "seller-payout-reconciliation",
+        "title": "Seller payout reconciliation",
+        "originalPath": "/features/seller-payout-reconciliation"
+      },
+      {
+        "id": "refund-credit-control",
+        "title": "Refund credit control",
+        "originalPath": "/features/refund-credit-control"
+      },
+      {
+        "id": "currency-tax-validation",
+        "title": "Currency tax validation",
+        "originalPath": "/features/currency-tax-validation"
+      },
+      {
+        "id": "cash-reconciliation",
+        "title": "Cash reconciliation",
+        "originalPath": "/features/cash-reconciliation"
+      },
+      {
+        "id": "cross-connect-inventory-reconciliation",
+        "title": "Cross-connect inventory reconciliation",
+        "originalPath": "/features/cross-connect-inventory-reconciliation"
+      },
+      {
+        "id": "recurring-service-reconciliation",
+        "title": "Recurring service reconciliation",
+        "originalPath": "/features/recurring-service-reconciliation"
+      },
+      {
+        "id": "install-and-decommission-billing-control",
+        "title": "Install and decommission billing control",
+        "originalPath": "/features/install-and-decommission-billing-control"
+      },
+      {
+        "id": "sla-credit-calculation",
+        "title": "SLA credit calculation",
+        "originalPath": "/features/sla-credit-calculation"
+      },
+      {
+        "id": "invoice-exception-workbench",
+        "title": "Invoice exception workbench",
+        "originalPath": "/features/invoice-exception-workbench"
+      },
+      {
+        "id": "recovery-and-unit-cost-analytics",
+        "title": "Recovery and unit-cost analytics",
+        "originalPath": "/features/recovery-and-unit-cost-analytics"
+      },
+      {
+        "id": "conversion-cost-validation",
+        "title": "Conversion cost validation",
+        "originalPath": "/features/conversion-cost-validation"
+      },
+      {
+        "id": "price-effective-date-check",
+        "title": "Price effective-date check",
+        "originalPath": "/features/price-effective-date-check"
+      },
+      {
+        "id": "invoice-recalculation",
+        "title": "Invoice recalculation",
+        "originalPath": "/features/invoice-recalculation"
+      },
+      {
+        "id": "credit-reconciliation",
+        "title": "Credit reconciliation",
+        "originalPath": "/features/credit-reconciliation"
+      },
+      {
+        "id": "invoice-ingestion",
+        "title": "Invoice ingestion",
+        "originalPath": "/features/invoice-ingestion"
+      },
+      {
+        "id": "contract-price-reconstruction",
+        "title": "Contract-price reconstruction",
+        "originalPath": "/features/contract-price-reconstruction"
+      },
+      {
+        "id": "most-favored-pricing-control",
+        "title": "Most-favored-pricing control",
+        "originalPath": "/features/most-favored-pricing-control"
+      },
+      {
+        "id": "invoice-line-ingestion",
+        "title": "Invoice line ingestion",
+        "originalPath": "/features/invoice-line-ingestion"
+      },
+      {
+        "id": "payment-overage-detection",
+        "title": "Payment overage detection",
+        "originalPath": "/features/payment-overage-detection"
+      },
+      {
+        "id": "invoice-reconciliation",
+        "title": "Invoice & Purchase-Order Reconciliation",
+        "originalPath": "/features/invoice-reconciliation"
+      },
+      {
+        "id": "entitlement-reconciliation",
+        "title": "Entitlement Reconciliation",
+        "originalPath": "/features/entitlement-reconciliation"
+      },
+      {
+        "id": "showback",
+        "title": "Showback & Chargeback",
+        "originalPath": "/features/showback"
+      },
+      {
+        "id": "credit-cash-reconciliation",
+        "title": "Credit cash reconciliation",
+        "originalPath": "/features/credit-cash-reconciliation"
+      },
+      {
+        "id": "financial-model-sanity",
+        "title": "AI · Financial Model Sanity",
+        "originalPath": "/features/financial-model-sanity"
+      },
+      {
+        "id": "pricing",
+        "title": "AI Pricing",
+        "originalPath": "/features/pricing"
+      },
+      {
+        "id": "ai-pricing-intelligence",
+        "title": "ai pricing intelligence",
+        "originalPath": "/features/ai-pricing-intelligence"
+      },
+      {
+        "id": "invoice-anomaly-detection-for-manual-review",
+        "title": "invoice anomaly detection for manual review",
+        "originalPath": "/features/invoice-anomaly-detection-for-manual-review"
+      },
+      {
+        "id": "invoice-anomaly-detection-ai",
+        "title": "invoice anomaly detection ai",
+        "originalPath": "/features/invoice-anomaly-detection-ai"
+      },
+      {
+        "id": "budget",
+        "title": "Budget Simulator",
+        "originalPath": "/features/budget"
+      },
+      {
+        "id": "tax",
+        "title": "Tax Optimizer",
+        "originalPath": "/features/tax"
+      },
+      {
+        "id": "finance",
+        "title": "Financial Analysis",
+        "originalPath": "/features/finance"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "capacity-commitment-tracking",
+      "release-schedule-control"
+    ],
+    "ai": true,
+    "representativeId": "capacity-commitment-tracking",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "capacity-commitment-tracking",
+        "title": "Capacity commitment tracking",
+        "originalPath": "/features/capacity-commitment-tracking"
+      },
+      {
+        "id": "release-schedule-control",
+        "title": "Release schedule control",
+        "originalPath": "/features/release-schedule-control"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "duplicate-and-split-order-detection",
+      "goods-receipt-matching",
+      "duplicate-receipt-detection",
+      "short-shipment-analysis",
+      "unused-seats",
+      "tier-optimization",
+      "commitment-forecast",
+      "red-flag-detector",
+      "redaction-recommender",
+      "win-loss",
+      "contract-clause-recommender",
+      "ai-clauseterm-recommendation",
+      "ai-driven-supplier-diversity-optimization",
+      "contract",
+      "hr",
+      "inventory",
+      "contract-clause-analyzer"
+    ],
+    "ai": true,
+    "representativeId": "duplicate-and-split-order-detection",
+    "description": "One assistant for 17 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "duplicate-and-split-order-detection",
+        "title": "Duplicate and split-order detection",
+        "originalPath": "/features/duplicate-and-split-order-detection"
+      },
+      {
+        "id": "goods-receipt-matching",
+        "title": "Goods receipt matching",
+        "originalPath": "/features/goods-receipt-matching"
+      },
+      {
+        "id": "duplicate-receipt-detection",
+        "title": "Duplicate receipt detection",
+        "originalPath": "/features/duplicate-receipt-detection"
+      },
+      {
+        "id": "short-shipment-analysis",
+        "title": "Short shipment analysis",
+        "originalPath": "/features/short-shipment-analysis"
+      },
+      {
+        "id": "unused-seats",
+        "title": "Unused & Orphaned Seat Detection",
+        "originalPath": "/features/unused-seats"
+      },
+      {
+        "id": "tier-optimization",
+        "title": "License-Tier Optimization",
+        "originalPath": "/features/tier-optimization"
+      },
+      {
+        "id": "commitment-forecast",
+        "title": "Commitment Forecasting",
+        "originalPath": "/features/commitment-forecast"
+      },
+      {
+        "id": "red-flag-detector",
+        "title": "AI Red Flag Detector",
+        "originalPath": "/features/red-flag-detector"
+      },
+      {
+        "id": "redaction-recommender",
+        "title": "Redaction recommender",
+        "originalPath": "/features/redaction-recommender"
+      },
+      {
+        "id": "win-loss",
+        "title": "Win/Loss Analysis",
+        "originalPath": "/features/win-loss"
+      },
+      {
+        "id": "contract-clause-recommender",
+        "title": "contract clause recommender",
+        "originalPath": "/features/contract-clause-recommender"
+      },
+      {
+        "id": "ai-clauseterm-recommendation",
+        "title": "ai clauseterm recommendation",
+        "originalPath": "/features/ai-clauseterm-recommendation"
+      },
+      {
+        "id": "ai-driven-supplier-diversity-optimization",
+        "title": "ai driven supplier diversity optimization",
+        "originalPath": "/features/ai-driven-supplier-diversity-optimization"
+      },
+      {
+        "id": "contract",
+        "title": "Contract Analyzer",
+        "originalPath": "/features/contract"
+      },
+      {
+        "id": "hr",
+        "title": "HR Insights",
+        "originalPath": "/features/hr"
+      },
+      {
+        "id": "inventory",
+        "title": "Inventory Optimization",
+        "originalPath": "/features/inventory"
+      },
+      {
+        "id": "contract-clause-analyzer",
+        "title": "contract clause analyzer",
+        "originalPath": "/features/contract-clause-analyzer"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "unit-of-measure-conversion",
+      "sales"
+    ],
+    "ai": true,
+    "representativeId": "unit-of-measure-conversion",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "unit-of-measure-conversion",
+        "title": "Unit-of-measure conversion",
+        "originalPath": "/features/unit-of-measure-conversion"
+      },
+      {
+        "id": "sales",
+        "title": "Sales Forecast",
+        "originalPath": "/features/sales"
+      }
+    ]
+  }
+]

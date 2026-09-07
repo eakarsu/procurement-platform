@@ -1,0 +1,11 @@
+{
+  "id": "procurement-platform",
+  "status": "passed",
+  "pagesVisited": 282,
+  "minimumRows": 15,
+  "browserCRUD": true,
+  "persistence": true,
+  "mobile": true,
+  "pageErrors": [],
+  "verifiedAt": "2026-09-07T14:39:57.218Z"
+}

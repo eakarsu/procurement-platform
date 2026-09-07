@@ -1,0 +1,9 @@
+{
+  "app": "procurement-platform",
+  "features": 282,
+  "sourceApps": 16,
+  "calculatorEngines": 0,
+  "registryHash": "613b610851d6653e769ea0aa70f149b0262d214fbd2d6c4dc5e9c728102d7466",
+  "builtAt": "2026-09-07T22:05:38.561Z",
+  "status": "built"
+}

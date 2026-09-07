@@ -1,0 +1,16 @@
+ai-cloud-marketplace-private-offer-reconciliation
+ai-data-center-colocation-invoice-sla-recovery
+ai-packaging-material-index-price-audit
+ai-procurement-contract-price-compliance-recovery
+ai-purchase-order-receipt-invoice-quantity-recovery
+ai-saas-license-cloud-commitment-recovery
+ai-software-procurement-negotiator
+ai-supplier-rebate-accrual-recovery
+ai-vendor-contract-risk-monitor
+ai_procurement_management
+AIDueDiligenceAssistant
+AIMandADealRoom
+AIProposalSOWGenerator
+AIStrategicSourcingNegotiation
+AIVendorRiskPerformanceScorer
+oracle

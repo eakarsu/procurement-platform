@@ -1,0 +1,98 @@
+[
+  {
+    "id": "ai-cloud-marketplace-private-offer-reconciliation",
+    "name": "Cloud marketplace private offer reconciliation",
+    "sourceProject": "ai-cloud-marketplace-private-offer-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-data-center-colocation-invoice-sla-recovery",
+    "name": "Data center colocation invoice sla recovery",
+    "sourceProject": "ai-data-center-colocation-invoice-sla-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-packaging-material-index-price-audit",
+    "name": "Packaging material index price audit",
+    "sourceProject": "ai-packaging-material-index-price-audit",
+    "services": []
+  },
+  {
+    "id": "ai-procurement-contract-price-compliance-recovery",
+    "name": "Procurement contract price compliance recovery",
+    "sourceProject": "ai-procurement-contract-price-compliance-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-purchase-order-receipt-invoice-quantity-recovery",
+    "name": "Purchase order receipt invoice quantity recovery",
+    "sourceProject": "ai-purchase-order-receipt-invoice-quantity-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-saas-license-cloud-commitment-recovery",
+    "name": "Saas license cloud commitment recovery",
+    "sourceProject": "ai-saas-license-cloud-commitment-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-software-procurement-negotiator",
+    "name": "Software procurement negotiator",
+    "sourceProject": "ai-software-procurement-negotiator",
+    "services": []
+  },
+  {
+    "id": "ai-supplier-rebate-accrual-recovery",
+    "name": "Supplier rebate accrual recovery",
+    "sourceProject": "ai-supplier-rebate-accrual-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-vendor-contract-risk-monitor",
+    "name": "Vendor contract risk monitor",
+    "sourceProject": "ai-vendor-contract-risk-monitor",
+    "services": []
+  },
+  {
+    "id": "ai_procurement_management",
+    "name": "Procurement management",
+    "sourceProject": "ai_procurement_management",
+    "services": []
+  },
+  {
+    "id": "AIDueDiligenceAssistant",
+    "name": "Due diligence assistant",
+    "sourceProject": "AIDueDiligenceAssistant",
+    "services": []
+  },
+  {
+    "id": "AIMandADealRoom",
+    "name": "Mand adeal room",
+    "sourceProject": "AIMandADealRoom",
+    "services": []
+  },
+  {
+    "id": "AIProposalSOWGenerator",
+    "name": "Proposal sowgenerator",
+    "sourceProject": "AIProposalSOWGenerator",
+    "services": []
+  },
+  {
+    "id": "AIStrategicSourcingNegotiation",
+    "name": "Strategic sourcing negotiation",
+    "sourceProject": "AIStrategicSourcingNegotiation",
+    "services": []
+  },
+  {
+    "id": "AIVendorRiskPerformanceScorer",
+    "name": "Vendor risk performance scorer",
+    "sourceProject": "AIVendorRiskPerformanceScorer",
+    "services": []
+  },
+  {
+    "id": "oracle",
+    "name": "Oracle",
+    "sourceProject": "oracle",
+    "services": []
+  }
+]
