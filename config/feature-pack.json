@@ -1,0 +1,22 @@
+{
+  "insights": [
+    {
+      "id": "insight-supplier-contract-library",
+      "feature": "supplier-contract-library",
+      "title": "Supplier contract library insight",
+      "focus": "Summarize Supplier contract library records: totals, status mix, field coverage and recent activity. Procurement contracts only; use only supplied records; do not invent supplier terms or savings."
+    },
+    {
+      "id": "insight-purchase-order-ingestion",
+      "feature": "purchase-order-ingestion",
+      "title": "Purchase-order ingestion insight",
+      "focus": "Summarize Purchase-order ingestion records: totals, status mix, field coverage and recent activity. Use only supplied records; do not invent orders, amounts or approvals."
+    },
+    {
+      "id": "priority-actions",
+      "feature": "tasks",
+      "title": "Priority actions",
+      "focus": "Overdue and upcoming tasks and deadlines, including unassigned work."
+    }
+  ]
+}
